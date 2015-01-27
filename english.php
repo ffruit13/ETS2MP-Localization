@@ -38,7 +38,7 @@ $_lang["website.title"] = "ETS2MP - Virtual trucking world - multiplayer mod for
 $_lang["cookies.warning"] = "This site uses <a href=\"http://en.wikipedia.org/wiki/HTTP_cookie\">cookies</a>. By continuing to browse this site, you are agreeing to our use of cookies.";
 $_lang["forum"] = "Forum";
 $_lang["cannot.create.account.when.logged"] = "You cannot create new account while you are logged in.";
-$_lang["successfully.registered"] = "You've been successfully registered. Please check your email to activate your account.";
+$_lang["successfully.registered"] = "You've been successfully registered. Please check your email to activate your account. Mail: <b>{0}</b>";
 $_lang["error.unknown"] = "Unknown error";
 $_lang["credentials.taken"] = "Username, email or steamid is already taken.";
 $_lang["error.no.steam.data"] = "To create ETS2MP account you must have ETS2 assigned to your steam account. If you have it in your steam library try to check if your profile is public. If it's private make it public and press";

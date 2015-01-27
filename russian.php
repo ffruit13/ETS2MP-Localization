@@ -38,7 +38,7 @@ $_lang["website.title"] = "ETS2MP - Виртуальный мир грузопе
 $_lang["cookies.warning"] = "Сайт использует <a href=\"http://en.wikipedia.org/wiki/HTTP_cookie\">cookies</a>. Продолжая пользоваться сайтом, Вы соглашаетесь на их использование.";
 $_lang["forum"] = "Форум";
 $_lang["cannot.create.account.when.logged"] = "Вы не можете создать новый аккаунт, когда Вы уже авторизовались под своим именем";
-$_lang["successfully.registered"] = "Вы успешно зарегистрировались";
+$_lang["successfully.registered"] = "Вы успешно зарегистрировались.  Mail: <b>{0}</b>";
 $_lang["error.unknown"] = "Неизвестная ошибка";
 $_lang["credentials.taken"] = "Ник, электронная почта или Steam ID уже использованы.";
 $_lang["error.no.steam.data"] = "Для создания аккаунта ETS2MP в Вашей библиотеке Steam должна быть игра ETS2. Если игра уже есть, проверьте Ваш профиль Steam – он должен быть открытым. Если он закрытый, откройте его и нажмите";

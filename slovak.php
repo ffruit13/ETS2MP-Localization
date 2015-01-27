@@ -38,7 +38,7 @@ $_lang["website.title"] = "ETS2MP - Virtuálny svet dopravy - multiplayer mód p
 $_lang["cookies.warning"] = "Táto stránka používa <a href=\"http://en.wikipedia.org/wiki/HTTP_cookie\">cookies</a>. Pred prechádzaním stránky prosím povolte používanie cookies.";
 $_lang["forum"] = "Fórum";
 $_lang["cannot.create.account.when.logged"] = "Nemôžete si vytvoriť nový účet pokiaľ ste už prihlásený.";
-$_lang["successfully.registered"] = "Boli ste úspešne zaregistrovaný. Skontrolujte si prosím váš e-mail pre aktiváciu účtu.";
+$_lang["successfully.registered"] = "Boli ste úspešne zaregistrovaný. Skontrolujte si prosím váš e-mail pre aktiváciu účtu. Mail: <b>{0}</b>";
 $_lang["error.unknown"] = "Neznáma chyba";
 $_lang["credentials.taken"] = "Používateľské meno, email alebo SteamID je už obsadené.";
 $_lang["error.no.steam.data"] = "Pre vytvorenie ETS2MP účtu musíte mať zakúpený ETS2 na vašom Steam účte. Pokiaľ máte hru zakúpenú, musíte mať nastavený profil ako verejný. Pokiaľ ho máte súkromný, zmeňte ho prosím na verejný.";

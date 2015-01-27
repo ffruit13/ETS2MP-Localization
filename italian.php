@@ -38,7 +38,7 @@ $_lang["website.title"] = "ETS2MP - Simulazione di trasporti globale - MOD multi
 $_lang["cookies.warning"] = "Questo sito utilizza i <a href=\"http://en.wikipedia.org/wiki/HTTP_cookie\">cookies</a>. Per continuare ad utilizzare il sito, accetta l'utilizzo dei cookies.";
 $_lang["forum"] = "Forum";
 $_lang["cannot.create.account.when.logged"] = "Non puoi creare un account quando già hai effettuato l'accesso.";
-$_lang["successfully.registered"] = "La tua registrazione è avvunuta con successo.";
+$_lang["successfully.registered"] = "La tua registrazione è avvunuta con successo. Mail: <b>{0}</b>";
 $_lang["error.unknown"] = "Errore sconosciuto";
 $_lang["credentials.taken"] = "Nome utente, email o SteamID è/sono stato/i già presi.";
 $_lang["error.no.steam.data"] = "Per creare un account di ETS2MP devi avere ETS2 nel tuo account di Steam. Se il gioco è nella tua libreria, controlla che il tuo profilo sia pubblico. Se è privato, rendilo pubblico";

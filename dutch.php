@@ -38,7 +38,7 @@ $_lang["website.title"] = "ETS2MP - Virtuele Truckers Wereld - Multiplayer mod v
 $_lang["cookies.warning"] = "Deze website gebruikt <a href=\"http://en.wikipedia.org/wiki/HTTP_cookie\">cookies</a>. Door deze website te gebruiken, gaat u akkoord met het gebruik van cookies.";
 $_lang["forum"] = "Forum";
 $_lang["cannot.create.account.when.logged"] = "Je kan geen account maken als je bent ingelogd.";
-$_lang["successfully.registered"] = "Je bent succesvol geregistreerd."; 
+$_lang["successfully.registered"] = "Je bent succesvol geregistreerd. Mail: <b>{0}</b>";
 $_lang["error.unknown"] = "Onbekende fout";
 $_lang["credentials.taken"] = "Gebruikersnaam, email of steamID is al in gebruik.";
 $_lang["error.no.steam.data"] = "Om een ETS2MP account aan te maken moet je ETS2 in je bezit hebben op Steam. Als je het spel bezit, controleer dan of je profiel publiek toegankelijk is. Als het privaat is moet je het publiek maken en druk op";

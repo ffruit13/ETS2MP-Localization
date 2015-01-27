@@ -38,7 +38,7 @@ $_lang["website.title"] = "ETS2MP - Sanal Kamyon Dünyası - SCS Software taraf�
 $_lang["cookies.warning"] = "Bu site <a href=\"http://tr.wikipedia.org/wiki/%C3%87erez_(internet)\">çerezleri</a> kullanmaktadır. Bu siteyi görüntülemeye devam ederek, çerez kullanımını kabul etmiş sayılırsınız.";
 $_lang["forum"] = "Forum";
 $_lang["cannot.create.account.when.logged"] = "Oturum açıkken yeni bir hesap oluşturamazsınız.";
-$_lang["successfully.registered"] = "Başarıyla kayıtlı oldunuz. Lütfen hesabınızı etkinleştirmek için e-postanızı kontrol edin.";
+$_lang["successfully.registered"] = "Başarıyla kayıtlı oldunuz. Lütfen hesabınızı etkinleştirmek için e-postanızı kontrol edin. Mail: <b>{0}</b>";
 $_lang["error.unknown"] = "Bilinmeyen hata";
 $_lang["credentials.taken"] = "Kullanıcı adı, e-posta veya steamid zaten kullanımda.";
 $_lang["error.no.steam.data"] = "ETS2MP hesabı oluşturmak için steam kütüphanenizde ETS2 olması gerekir. Eğer varsa, profilinizin herkese açık olup olmadığını kontrol edin.";

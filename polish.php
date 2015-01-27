@@ -38,7 +38,7 @@ $_lang["website.title"] = "ETS2MP - Wirtualny świat ciężarówek - modyfikacja
 $_lang["cookies.warning"] = "Ta strona używa <a href=\"http://pl.wikipedia.org/wiki/HTTP_cookie\">ciasteczka</a>. Poprzez kontynuację przeglądania tej strony, wyrażasz zgodę na ich użycie.";
 $_lang["forum"] = "Forum";
 $_lang["cannot.create.account.when.logged"] = "Nie możesz stworzyć nowego konta gdy jesteś zalogowany.";
-$_lang["successfully.registered"] = "Konto zostało pomyślnie założone. Prosimy wejdź na mail podany podczas rejestracji i aktywuj je.";
+$_lang["successfully.registered"] = "Konto zostało pomyślnie założone. Prosimy wejdź na mail podany podczas rejestracji i aktywuj je. Mail: <b>{0}</b>";
 $_lang["error.unknown"] = "Nieznany błąd";
 $_lang["credentials.taken"] = "Nazwa użytkownika, mail lub steamid zostały już użyte.";
 $_lang["error.no.steam.data"] = "Aby stworzyć konto ETS2MP musisz mieć ETS2 przypisanego do twojego konta steam. Jeśli masz go w swojej bibliotece sprawdź czy twój profil jest publiczny. Jeśli jest on prywatny zmień jego ustawienia i kliknij";

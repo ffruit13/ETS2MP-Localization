@@ -37,7 +37,7 @@ $_lang["why.create.account"] = "Quels sont les avantages d'un compte ETS2MP ?<br
 $_lang["cookies.warning"] = "Ce site utilise les <a href=\"http://fr.wikipedia.org/wiki/Cookie_(informatique)\">cookies</a>. En continuant de surfer sur le site, vous approuvez l'utilisation des cookies.";
 $_lang["forum"] = "Forum";
 $_lang["cannot.create.account.when.logged"] = "Vous ne pouvez pas créer de compte en étant connecté";
-$_lang["successfully.registered"] = "Vous avez été enregistré avec succès ! Regardez vos e-mails pour activer votre compte.";
+$_lang["successfully.registered"] = "Vous avez été enregistré avec succès! Regardez vos e-mails pour activer votre compte. Mail: <b>{0}</b>";
 $_lang["error.unknown"] = "Erreur inconnue";
 $_lang["credentials.taken"] = "Ce nom de compte, ce mail ou cet ID Steam est déjà pris.";
 $_lang["error.no.steam.data"] = "Pour créer un compte ETS2MP, vous devez avoir ETS2 dans votre librairie de jeux Steam. Si vous l'avez, vérifiez que votre compte est public.";

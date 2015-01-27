@@ -38,7 +38,7 @@ $_lang["website.title"] = "ETS2MP - Truck-Simulation - Multiplayer-Mod für den 
 $_lang["cookies.warning"] = "Diese Seite nutzt <a href=\"http://de.wikipedia.org/wiki/HTTP-Cookie\">Cookies</a>. Wenn du auf dieser Website surfst, stimmst du der Verwendung von Cookies zu.";
 $_lang["forum"] = "Forum";
 $_lang["cannot.create.account.when.logged"] = "Du kannst keinen neuen Account erstellen, wenn du angemeldet bist.";
-$_lang["successfully.registered"] = "Du hast dich erfolgeich registriert. Checke deine E-Mails, um den Account zu aktivieren.";
+$_lang["successfully.registered"] = "Du hast dich erfolgeich registriert. Checke deine E-Mails, um den Account zu aktivieren. Mail: <b>{0}</b>";
 $_lang["error.unknown"] = "Unbekannter Fehler";
 $_lang["credentials.taken"] = "Nutzername, E-Mail oder SteamID wird bereits genutzt";
 $_lang["error.no.steam.data"] = "Um einen ETS2MP-Account zu erstellen, muss ETS2 auf Steam aktiviert sein. Falls es in deiner Steam-Bibliothek ist, vergewissere dich, dass sie öffentlich ist. Falls sie privat ist, ändere die Einstellungen bitte auf öffentlich.";
